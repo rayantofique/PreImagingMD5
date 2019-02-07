@@ -1,6 +1,7 @@
 # PasswordsPreImaging
 
 Program written to solve homework question for CS 590: Computer Security
+
 Only for educational purposes
 
 Hashes were given in MD5 format (which was applied 1000 times)
